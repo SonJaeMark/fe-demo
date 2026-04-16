@@ -28,9 +28,9 @@ The app is served from `index.html` and loads the main application from `src/mai
 
 Use one of the built-in accounts to log in:
 
-- Admin: `admin` / `admin123`
-- Student: `student` / `student123`
-- Registrar: `registrar` / `registrar123`
+- Admin: `admin@example.com` / `admin123`
+- Student: `student@example.com` / `student123`
+- Registrar: `registrar@example.com` / `registrar123`
 
 ## Navigation
 
